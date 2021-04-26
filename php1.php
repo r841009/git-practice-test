@@ -1,4 +1,2 @@
 <?php
 
-phpinfo();
-111
